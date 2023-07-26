@@ -1,0 +1,80 @@
+{
+  "Calculator": {
+    "CalculatorSoap": {
+      "Add": {
+        "input": {
+          "intA": "s:int",
+          "intB": "s:int"
+        },
+        "output": {
+          "AddResult": "s:int"
+        }
+      },
+      "Subtract": {
+        "input": {
+          "intA": "s:int",
+          "intB": "s:int"
+        },
+        "output": {
+          "SubtractResult": "s:int"
+        }
+      },
+      "Multiply": {
+        "input": {
+          "intA": "s:int",
+          "intB": "s:int"
+        },
+        "output": {
+          "MultiplyResult": "s:int"
+        }
+      },
+      "Divide": {
+        "input": {
+          "intA": "s:int",
+          "intB": "s:int"
+        },
+        "output": {
+          "DivideResult": "s:int"
+        }
+      }
+    },
+    "CalculatorSoap12": {
+      "Add": {
+        "input": {
+          "intA": "s:int",
+          "intB": "s:int"
+        },
+        "output": {
+          "AddResult": "s:int"
+        }
+      },
+      "Subtract": {
+        "input": {
+          "intA": "s:int",
+          "intB": "s:int"
+        },
+        "output": {
+          "SubtractResult": "s:int"
+        }
+      },
+      "Multiply": {
+        "input": {
+          "intA": "s:int",
+          "intB": "s:int"
+        },
+        "output": {
+          "MultiplyResult": "s:int"
+        }
+      },
+      "Divide": {
+        "input": {
+          "intA": "s:int",
+          "intB": "s:int"
+        },
+        "output": {
+          "DivideResult": "s:int"
+        }
+      }
+    }
+  }
+}
