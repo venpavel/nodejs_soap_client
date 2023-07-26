@@ -1,10 +1,10 @@
 {
-  "name": "soap_test",
+  "name": "nodejs_soap_client",
   "version": "1.0.0",
-  "description": "",
+  "description": "Simple node.js soap client with express, hbs, bootstrap and soap module",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app.js"
   },
   "keywords": [],
   "author": "venpavel",
